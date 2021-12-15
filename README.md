@@ -1,7 +1,5 @@
 ## robosys
 
-
-
 ## 用意するもの
 ・ラズパイ
 ・LEDライト
@@ -36,7 +34,4 @@ $ echo 1 > /dev/myled0
 $ echo 0 > /dev/myled0
 
 ## ライセンス
-
-
-
-
+https://github.com/KoukiNegi/robosys/blob/main/COPYING

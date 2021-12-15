@@ -1,2 +1,15 @@
-# robosys
-This is a report
+## ロボットシステム
+
+## 用意するもの
+・ラズパイ
+・LED
+・モニター
+・PC
+・抵抗　(200Ω)
+・ジャンパ線
+・LANケーブル
+
+## 方法
+・インストール
+'''sh
+$ git clone https
